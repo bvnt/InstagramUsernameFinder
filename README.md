@@ -1,4 +1,4 @@
-# InstagramUsernameFinder
+# InstagramUsernameFinder / InstagramUsernameChecker
 
 tr: İnstagram üzerindeki boş kullanıcı adlarını bulabilirsiniz.
 
@@ -7,7 +7,7 @@ eg: You can find empty usernames on Instagram.
 
 ## Kullanım/Use
 
-tr: 'usernames.txt' dosyası default olarak İnstagram üzerindeki 4 harfli tim kullanıcı adlarının kombinasyonunu içeren şekilde gelir. Buraya istediğiniz kullanıcı adlarını alt alta yazabilirsiniz. Daha sonra terminal üzerinden çalıştırabilirsiniz.
+tr: 'usernames.txt' dosyası default olarak İnstagram üzerindeki 4 harfli tüm kullanıcı adlarının kombinasyonunu içeren şekilde gelir. Buraya istediğiniz kullanıcı adlarını alt alta yazabilirsiniz. Daha sonra terminal üzerinden çalıştırabilirsiniz.
 
 eg: By default, the 'usernames.txt' file comes with a combination of 4-letter all usernames on Instagram. Here you can write the usernames you want one after the other. You can then run it through the terminal.
 
