@@ -57,3 +57,5 @@ for i in range(num_worker_threads):
     q.put(None)
 for t in threads:
     t.join()
+
+imput()
